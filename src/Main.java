@@ -13,6 +13,8 @@ public class Main {
         int m = 1000;
         System.out.println(m);
 
+        System.out.println("С добрым утром");
+
 
     }
 }
