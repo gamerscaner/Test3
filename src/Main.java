@@ -9,5 +9,10 @@ public class Main {
         System.out.println("");
 
 
+        System.out.println("test test 2");
+        int m = 1000;
+        System.out.println(m);
+
+
     }
 }
